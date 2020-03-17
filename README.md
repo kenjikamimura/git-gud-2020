@@ -6,12 +6,20 @@
 
 ## **Setting up:**
 
-## 1. Clone the Repository
+## 1.0 Fork the main repository
 
+- Navigate to https://github.com/kenjikamimura/git-gud-2020
+- Click on the Fork button. This creates your own copy of the reporitory on your own Github account.
+  ![Fork](./images/Fork.png "Fork") 
+
+
+## 1.1 Clone the Repository
+
+- In your own fork repository on github, click on the green "Clone or download" button and copy the url of it. (It should look like something like this: https://github.com/sueyeon/git-gud-2020.git where your github user name is in the url).
 - In your terminal, navigate to where you would like clone the project. Then type the command below. (This will copy the repository in github to your local computer).
 
-        git clone https://github.com/kenjikamimura/git-gud-2020.git
-        
+        git clone <the url you just copied from the green button>
+
 - Navigate into the repository:
 
         cd git-gud-2020
