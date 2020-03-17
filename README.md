@@ -11,7 +11,7 @@
 - In your terminal, navigate to where you would like clone the project. Then type the command below. (This will copy the repository in github to your local computer).
 
         git clone https://github.com/kenjikamimura/git-gud-2020.git
-
+        
 - Navigate into the repository:
 
         cd git-gud-2020
@@ -97,29 +97,27 @@ Type the command below.
 
 ## **Collaboration**
 
-## 11. Create a branch
+## 11. Push your changes to your fork's remote repository
 
-- In order to collaborate and merge your new changes to the remote repository, you will need to put these new commits onto a new branch (Not the master branch).
-
-        git checkout -b <New Branch Name>
-        e.g: git checkout -b kenjikamimuraBranch
-
-## Push your branch to the remote repository
-
-- The command below will push all the new commits to a new branch in the remote repository.
+- The command below will push all the new commits to the master branch in your forked remote repository.
   (Note: origin is the default name given to the remote repository)
 
-          git push origin <branch name>
-          e.g: git push origin kenjikamimuraBranch
+          git push origin master
 
 ## Create the Pull Request
 
-- Navigate to https://github.com/kenjikamimura/git-gud-2020
+- Navigate to your fork URL (e.g. https://github.com/sy133/git-gud-2020)
 - Click on the "New Pull Request" button
   ![NewPR](./images/NewPullRequestButton.png "New PR")
 
-- Change the branch you wish to make the pull request from to the branch you just pushed
+- Check the fork you wish to make the pull request from is your personal forked repository master branch
   ![NewPRPage](./images/NewPullRequestPage.png "New PR Page")
 
 - Click the green "Create pull request" button.
-- Congratulations, you have successfully made a Pull Request to the remote repository. Now you will have to wait until the owner of the repository approves and merges your pull request. 
+- Congratulations, you have successfully made a Pull Request to the remote repository. Now you will have to wait until the owner of the repository approves and merges your pull request.
+
+## Seeing your changes
+
+- Once your changes have been approved and merged, you can see your changes and other people's changes to the remote repository on https://github.com/kenjikamimura/git-gud-2020
+
+- These changes are now part of the source of truth!
