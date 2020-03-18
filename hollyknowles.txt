@@ -1,0 +1,3 @@
+write the first time in this text file 
+writing the second line
+third commit line 
