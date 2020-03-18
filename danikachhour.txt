@@ -1,0 +1,5 @@
+![New File](./images/NewFile.png "New File")
+
+adding a new line
+
+git log --oneline
