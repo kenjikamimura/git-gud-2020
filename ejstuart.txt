@@ -1,1 +1,2 @@
 This is the first line
+I've been told i have to add a second line
