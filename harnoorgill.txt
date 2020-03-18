@@ -1,2 +1,3 @@
 The first line in this text file
 This is the second line in this file
+Adding the third line
