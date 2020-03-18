@@ -1,2 +1,3 @@
 Write the first line in this text file
 Added a second line
+Added a third line
