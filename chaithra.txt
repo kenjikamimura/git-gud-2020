@@ -1,2 +1,3 @@
 this is the sample text file
-
+line 2 
+line 3
