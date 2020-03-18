@@ -1,0 +1,3 @@
+Write the first line in this text file
+Writing the second line
+Last line
