@@ -1,1 +1,2 @@
-THis is my name
+THis is my name.
+This is the second line.
