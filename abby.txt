@@ -1,1 +1,2 @@
 write the first line in this text file 
+writing the second line 
